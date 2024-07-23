@@ -7,7 +7,7 @@ Cat Runner is an endless running game featuring a cute cat with pixel graphics. 
 ## Features
 
 -   **Endless Running:** The game continues until you lose, providing a challenging experience.
--   **Pixel Graphics:** Enjoy retro-style pixel art graphics.
+-   **Pixel Graphics:** Enjoy pixel art graphics.
 -   **Cute Cat Character:** Play as an adorable cat.
 -   **Simple Controls:** Easy to learn controls for jumping and slashing.
 -   **Mushroom Bouncing:** Bounce on mushroom heads for extra fun.
