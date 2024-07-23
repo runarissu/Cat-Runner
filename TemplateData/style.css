@@ -15,10 +15,11 @@ body {
 	background-color: #231f20;
 }
 #unity-canvas {
-	width: 90%;
-	height: 90%;
+	width: 85%;
+	height: 85%;
 	background: #231f20;
-	outline: whitesmoke 5px solid;
+	outline: whitesmoke 10px solid;
+	border-radius: 10px;
 }
 #unity-loading-bar {
 	position: absolute;
